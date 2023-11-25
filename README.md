@@ -1,3 +1,3 @@
-# git
+# git_training
 This is my first repository 
-I am excited to learn new learnings
+I want to learn more 
