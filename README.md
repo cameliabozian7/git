@@ -1,3 +1,3 @@
 # git
 This is my first repository 
-I am exited to learn new things
+I am excited to learn new learnings
